@@ -1,0 +1,240 @@
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\indiatour-webapi-master.dll.config
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\indiatour-webapi-master.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\indiatour-webapi-master.pdb
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csc.exe
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csc.exe.config
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csc.rsp
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csi.exe
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csi.exe.config
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csi.rsp
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.AppContext.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Console.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Net.Http.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\vbc.exe
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\vbc.exe.config
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\vbc.rsp
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Antlr3.Runtime.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\EntityFramework.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\EntityFramework.SqlServer.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Newtonsoft.Json.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Net.Http.Formatting.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Cors.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Helpers.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.Cors.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.WebHost.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Mvc.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Optimization.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Razor.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\WebGrease.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\EntityFramework.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\EntityFramework.SqlServer.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Net.Http.Formatting.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.Cors.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Newtonsoft.Json.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Helpers.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.WebHost.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Mvc.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Optimization.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Razor.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Antlr3.Runtime.pdb
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\obj\Debug\indiatour-webapi-master.csproj.CoreCompileInputs.cache
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\obj\Debug\indiatour-webapi-master.csproj.CopyComplete
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\obj\Debug\indiatour-webapi-master.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\obj\Debug\indiatour-webapi-master.pdb
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Buffers.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Memory.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Numerics.Vectors.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Text.Encodings.Web.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Text.Json.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.ValueTuple.dll
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Buffers.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Memory.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Numerics.Vectors.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Text.Encodings.Web.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Text.Json.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\bin\System.ValueTuple.xml
+C:\Users\Hitesh\Desktop\FinalProject\indiatour-webapi-master\indiatour-webapi-master\obj\Debug\indiatour-webapi-master.csproj.AssemblyReference.cache
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\indiatour-webapi-master.dll.config
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\indiatour-webapi-master.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\indiatour-webapi-master.pdb
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csc.exe
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csc.exe.config
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csc.rsp
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csi.exe
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csi.exe.config
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\csi.rsp
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.AppContext.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Collections.Immutable.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Console.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Globalization.Calendars.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.IO.Compression.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.IO.FileSystem.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Net.Http.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Net.Sockets.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Reflection.Metadata.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.ValueTuple.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Xml.XPath.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\vbc.exe
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\vbc.exe.config
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\vbc.rsp
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\VBCSCompiler.exe
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\roslyn\VBCSCompiler.exe.config
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Antlr3.Runtime.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\EntityFramework.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\EntityFramework.SqlServer.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Logging.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Tokens.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.Web.Infrastructure.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Newtonsoft.Json.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Buffers.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Memory.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Net.Http.Formatting.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Numerics.Vectors.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Text.Encodings.Web.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Text.Json.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Threading.Tasks.Extensions.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.ValueTuple.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Cors.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Helpers.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.Cors.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.WebHost.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Mvc.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Optimization.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Razor.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.Deployment.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.Razor.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\WebGrease.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\EntityFramework.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\EntityFramework.SqlServer.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Logging.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.IdentityModel.Tokens.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Buffers.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Memory.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Net.Http.Formatting.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Numerics.Vectors.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Text.Encodings.Web.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Text.Json.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Threading.Tasks.Extensions.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.ValueTuple.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.Cors.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Newtonsoft.Json.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Helpers.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Http.WebHost.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Mvc.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Optimization.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.Razor.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.Deployment.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\System.Web.WebPages.Razor.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Antlr3.Runtime.pdb
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\obj\Debug\indiatour-webapi-master.csproj.AssemblyReference.cache
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\obj\Debug\indiatour-webapi-master.csproj.CoreCompileInputs.cache
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\obj\Debug\indiatour-webapi-master.csproj.CopyComplete
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\obj\Debug\indiatour-webapi-master.dll
+D:\CDAC Project\Project (18-9-2022)\indiatour-webapi-master\indiatour-webapi-master\obj\Debug\indiatour-webapi-master.pdb
